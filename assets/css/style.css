@@ -68,11 +68,12 @@ h1 {
 
 h2, 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 p {
   font-family: fantasy;
+  font-size: 15px;  
 }
  
 /* header */
@@ -91,11 +92,11 @@ p {
 #logo {
   float: left;
   width: 250px;
-  height: 90px;
+  height: 60px;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
-  line-height: 90px;
+  line-height: 60px;
   color: #ffffff;
   text-align: center;
   text-decoration: none;
@@ -106,7 +107,8 @@ p {
 
 nav {
   float: right;
-  margin-top: 25px;
+  margin-top: 20px;
+  font-size: 15px;
 }
 
 nav a {
@@ -183,7 +185,8 @@ h3,
 /* main */
 
 .jumbotron {
-  padding-top: 130px;
+  padding-top: 100px;
+  padding-bottom: 0px;
 }
 
 .main-section {
@@ -191,7 +194,7 @@ h3,
   width: 100%;
   max-width: 960px;
   padding: 30px;
-  margin: 0 0 40px;
+  margin: 0 0 20px;
   background: #ffffff;
   border: 1px solid #dddddd;
 }
